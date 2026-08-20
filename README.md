@@ -6,11 +6,11 @@ A comprehensive, production-ready School Delivery Ecosystem built using **Flutte
 
 ### 🎥 Live System Demonstration
 
-Here is a quick **1-minute time-lapse video** showcasing the full system navigation and flow. 
+Here is a quick **1-minute time-lapse video** showcasing the full system navigation and flow:
 
-> 💡 **Want a deep dive with voiceover?** Watch the [Full 29-Minute Technical Video & Firebase Demo on YouTube]([https://youtu.be](https://youtu.be/7FkrKquV0Tg)) 🚀
+[![Watch the Demo Video](https://youtube.com)](https://youtu.be)
 
-[[demo.mp4]]
+> 💡 **Want a deep dive with voiceover?** Watch the [Full 29-Minute Technical Video & Firebase Demo on YouTube](https://youtu.be) 🚀
 
 ---
 
@@ -24,28 +24,13 @@ Here is a quick **1-minute time-lapse video** showcasing the full system navigat
 
 ### 📸 System Architecture & UI Walkthrough
 
-Below are the comprehensive design boards and system walkthroughs. Click on each section to expand and view the high-resolution infographics:
+Below is a direct, high-resolution showcase of the application's comprehensive design boards and system walkthroughs:
 
-<details>
-<summary>📱 01. Core App Navigation & Authentication Flow (Click to Expand)</summary>
-<br />
-<p align="center">
-  <img src="screenshots/1.png" width="100%" alt="Core App WorkFlow" />
-</p>
-</details>
+#### 📱 01. Core App Navigation & Authentication Flow
+![Core App WorkFlow](screenshots/3.png)
 
-<details>
-<summary>🔐 02. Supervisor Dashboard & Input Validation (Click to Expand)</summary>
-<br />
-<p align="center">
-  <img src="screenshots/2.png" width="100%" alt="Supervisor Actions and Validations" />
-</p>
-</details>
+#### 🔐 02. Supervisor Dashboard & Input Validation
+![Supervisor Actions and Validations](screenshots/1.png)
 
-<details>
-<summary>⚙️ 03. Admin Console & Firebase User Management (Click to Expand)</summary>
-<br />
-<p align="center">
-  <img src="screenshots/3.png" width="100%" alt="Admin Console Management" />
-</p>
-</details>
+#### ⚙️ 03. Admin Console & Firebase User Management
+![Admin Console Management](screenshots/2.png)
