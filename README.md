@@ -10,7 +10,7 @@ Here is a quick **1-minute time-lapse video** showcasing the full system navigat
 
 > 💡 **Want a deep dive with voiceover?** Watch the [Full 29-Minute Technical Video & Firebase Demo on YouTube](https://youtu.be) 🚀
 
-[Download or View the Demo Video](demo.mp4)
+[[demo.mp4]]
 
 ---
 
@@ -30,7 +30,7 @@ Below are the comprehensive design boards and system walkthroughs. Click on each
 <summary>📱 01. Core App Navigation & Authentication Flow (Click to Expand)</summary>
 <br />
 <p align="center">
-  <img src="screenshots/board3.png" width="100%" alt="Core App WorkFlow" />
+  <img src="screenshots/اكتب_اسم_الصورة_الثالثة_الحقيقي_هنا.png" width="100%" alt="Core App WorkFlow" />
 </p>
 </details>
 
@@ -38,7 +38,7 @@ Below are the comprehensive design boards and system walkthroughs. Click on each
 <summary>🔐 02. Supervisor Dashboard & Input Validation (Click to Expand)</summary>
 <br />
 <p align="center">
-  <img src="screenshots/board1.png" width="100%" alt="Supervisor Actions and Validations" />
+  <img src="screenshots/اكتب_اسم_الصورة_الأولى_الحقيقي_هنا.png" width="100%" alt="Supervisor Actions and Validations" />
 </p>
 </details>
 
@@ -46,6 +46,6 @@ Below are the comprehensive design boards and system walkthroughs. Click on each
 <summary>⚙️ 03. Admin Console & Firebase User Management (Click to Expand)</summary>
 <br />
 <p align="center">
-  <img src="screenshots/board2.png" width="100%" alt="Admin Console Management" />
+  <img src="screenshots/اكتب_اسم_الصورة_الثانية_الحقيقي_هنا.png" width="100%" alt="Admin Console Management" />
 </p>
 </details>
