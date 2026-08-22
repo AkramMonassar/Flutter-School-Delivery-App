@@ -9,6 +9,7 @@ A comprehensive, production-ready School Delivery Ecosystem built using **Flutte
 Here is a quick **1-minute time-lapse video** showcasing the full system navigation and flow:
 
 [![Watch the Demo Video]
+<video src="demo.mp4" controls width="100%"></video>
 
 > 💡 **Want a deep dive with voiceover?** Watch the [Full 29-Minute Technical Video & Firebase Demo on YouTube]
 > [![Firebase Demo & Technical Video](https://youtube.com)](https://youtu.be/7FkrKquV0Tg)
